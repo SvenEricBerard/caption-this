@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to slide deck from cbralet!"
 ---
 
-Caption here
+Hi all
 
 ![Robotocat](https://octodex.github.com/images/Robotocat.png)
 {: .center}
